@@ -1,2 +1,17 @@
-node_modules
+# Intellij
+*.iml
 .idea
+
+# Circle CI
+.circleci
+
+# Git
+.git
+.gitignore
+
+# Node
+node_modules
+
+# Readme
+README.md
+
